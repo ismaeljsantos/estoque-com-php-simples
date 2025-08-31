@@ -20,6 +20,6 @@
         <input type="submit" value="Cadastrar">
     </form>
     <br>
-    <a href="index.php">Voltar ao Menu Principal</a>
+    <a href="lstcliente.php">Voltar ao Menu Principal</a>
 </body>
 </html>

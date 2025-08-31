@@ -53,4 +53,4 @@ O sistema é composto pelos seguintes arquivos principais:
 ## Autor
 
 - **Ismael JS**  
-  E-mail:
+  E-mail: ismaeldev96@gmail.com

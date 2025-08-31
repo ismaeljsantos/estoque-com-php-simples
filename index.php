@@ -15,11 +15,8 @@
 
     <nav>
         <ul>
-            <li><a href="frmproduto.php">Cadastro de Produtos</a></li>
             <li><a href="lstproduto.php">Listagem de Produtos</a></li>
-            <li><a href="frmcliente.php">Cadastro de Clientes</a></li>
             <li><a href="lstcliente.php">Listagem de Clientes</a></li>
-            <li><a href="frmusuario.php">Cadastro de Usuarios</a></li>
             <li><a href="lstusuario.php">Listagem de Usuarios</a></li>
         </ul>
     </nav>
