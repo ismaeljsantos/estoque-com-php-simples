@@ -27,6 +27,7 @@ if (file_exists($arquivo_produtos)) {
 </head>
 <body>
     <h1>Listagem de Produtos</h1>
+    <a href="frmproduto.php">Cadastrar Produto</a>
     <?php if (!empty($produtos)): ?>
     <table>
         <thead>
